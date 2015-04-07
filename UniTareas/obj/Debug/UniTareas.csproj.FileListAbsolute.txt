@@ -33,3 +33,4 @@ c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\o
 c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\obj\Debug\ProjectArchitectures.txt
 c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\obj\Debug\MDILProjectFiles.xml
 c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\obj\Debug\XapCacheFile.xml
+c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\obj\Debug\Menu.g.cs

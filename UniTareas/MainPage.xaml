@@ -60,9 +60,9 @@
                     <ColumnDefinition/>
                     <ColumnDefinition/>
                 </Grid.ColumnDefinitions>
-                <Button Content="Buscar Tareas" FontSize="45" Grid.ColumnSpan="2"/>
-                <Button Content="Accedé" Grid.Row="1"/>
-                <Button Content="Regístrate" Grid.Column="1" Grid.Row="1"/>
+                <Button Content="Buscar Tareas" FontSize="45" Grid.ColumnSpan="2" BorderThickness="20" Click="buscar"/>
+                <Button Content="Accedé"  FontSize="40" Grid.Row="1" BorderThickness="10"/>
+                <Button Content="Regístrate" FontSize="35" Grid.Column="1" Grid.Row="1" BorderThickness="10"/>
             </Grid>
 
         </Grid>

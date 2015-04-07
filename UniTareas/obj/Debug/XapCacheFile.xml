@@ -1,6 +1,6 @@
-﻿<xapCache source="c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\Bin\Debug\UniTareas_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="06/04/2015 2:03:58 p. m.">
-  <file source="c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="06/04/2015 2:03:56 p. m." />
-  <file source="c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\obj\Debug\UniTareas.dll" archivePath="UniTareas.dll" lastWriteTime="06/04/2015 2:03:56 p. m." />
+﻿<xapCache source="c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\Bin\Debug\UniTareas_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="06/04/2015 10:33:08 p. m.">
+  <file source="c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="06/04/2015 10:33:07 p. m." />
+  <file source="c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\obj\Debug\UniTareas.dll" archivePath="UniTareas.dll" lastWriteTime="06/04/2015 10:33:07 p. m." />
   <file source="c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="06/04/2015 2:03:42 p. m." />
   <file source="c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="06/04/2015 2:03:42 p. m." />
   <file source="c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="06/04/2015 2:03:42 p. m." />
@@ -17,6 +17,6 @@
   <file source="c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="06/04/2015 2:03:42 p. m." />
   <file source="c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="06/04/2015 2:03:42 p. m." />
   <file source="c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="06/04/2015 2:03:58 p. m." />
-  <file source="c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="06/04/2015 2:03:58 p. m." />
-  <file source="c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="06/04/2015 2:03:57 p. m." />
+  <file source="c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="06/04/2015 10:33:08 p. m." />
+  <file source="c:\users\edgaralonso\documents\visual studio 2013\Projects\UniTareas\UniTareas\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="06/04/2015 10:33:07 p. m." />
 </xapCache>

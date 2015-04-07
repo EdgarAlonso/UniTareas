@@ -22,6 +22,13 @@ namespace UniTareas
             //BuildLocalizedApplicationBar();
         }
 
+        public void buscar(object sender, RoutedEventArgs e)
+        {
+           
+                NavigationService.Navigate(new Uri("/Menu.xaml", UriKind.Relative));
+            
+        }
+
         // Código de ejemplo para compilar una ApplicationBar traducida
         //private void BuildLocalizedApplicationBar()
         //{
