@@ -25,7 +25,7 @@ namespace UniTareas
         public void buscar(object sender, RoutedEventArgs e)
         {
            
-                NavigationService.Navigate(new Uri("/Menu.xaml", UriKind.Relative));
+                NavigationService.Navigate(new Uri("/Panorama1.xaml", UriKind.Relative));
             
         }
 
